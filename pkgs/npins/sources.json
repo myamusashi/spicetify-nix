@@ -539,9 +539,9 @@
 				"repo": "kanagawa"
 			},
 			"branch": "main",
-			"revision": "6967b3f2fe0f0f4bd99c5060c32e9002ccee31ea",
-			"url": "https://github.com/myamusashi/kanagawa/archive/6967b3f2fe0f0f4bd99c5060c32e9002ccee31ea.tar.gz",
-			"hash": "sha256-GWbYQq655h9+ZyPH7c7H8w9gUlnq8lGSxldkc9LN2mU="
+			"revision": "ed7242be04357f3a7c47fbba95ec57ce87e2bb54",
+			"url": "https://github.com/myamusashi/kanagawa/archive/ed7242be04357f3a7c47fbba95ec57ce87e2bb54.tar.gz",
+			"hash": "sha256-cv2kLtHmW9JhGNO9y6vXSYdF/JRgFk7USafv2d4tnPo="
 		}
 	},
 	"version": 3
