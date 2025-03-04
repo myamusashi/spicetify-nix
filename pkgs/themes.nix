@@ -194,6 +194,8 @@
   kanagawa = {
     name = "kanagawa";
     src = "${sources.kanagawaSrc}/kanagawa";
+
+    overwriteAssets = true;
   };
 
   comfy = {
