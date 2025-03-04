@@ -193,7 +193,7 @@
 
   kanagawa = {
     name = "kanagawa";
-    src = "${sources.kanagawaSrc}/kanagawa";
+    src = "${sources.kanagawaSrc}";
 
     overwriteAssets = true;
   };
